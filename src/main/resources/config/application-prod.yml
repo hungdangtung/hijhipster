@@ -29,7 +29,7 @@ spring:
         type: com.zaxxer.hikari.HikariDataSource
         url: jdbc:mysql://localhost:3306/HiJHipster?useUnicode=true&characterEncoding=utf8&useSSL=false
         username: root
-        password: kofax123
+        password: hungdt
         hikari:
             data-source-properties:
                 cachePrepStmts: true
